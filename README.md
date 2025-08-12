@@ -1,0 +1,1 @@
+# EdgeNook-Funding.json
