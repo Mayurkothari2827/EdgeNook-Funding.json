@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "maintainers": [
+    {
+      "name": "Mayur Kothari",
+      "role": "Founder & Lead Developer",
+      "contact": {
+        "email": "support@edgenook.in",
+        "website": "https://edgenook.com",
+        "github": "mayurkothari",
+        "linkedin": "https://www.linkedin.com/in/mayur-kothari-039a422a8/"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "EdgeNook",
+      "description": "An innovative internship platform offering short-term, paid, and practical internships for graduating students, enhanced with AI-powered learning tools.",
+      "repo": "https://github.com/Mayurkothari2827/edgenook",
+      "website": "https://edgenook.com",
+      "status": "active",
+      "funding_needs": [
+        {
+          "purpose": "Platform hosting, server maintenance, and performance optimization",
+          "amount": 5000,
+          "currency": "INR",
+          "frequency": "monthly"
+        },
+        {
+          "purpose": "Course creation and curriculum updates for tech & marketing internships",
+          "amount": 4000,
+          "currency": "INR",
+          "frequency": "monthly"
+        },
+        {
+          "purpose": "Marketing campaigns and outreach to students",
+          "amount": 8000,
+          "currency": "INR",
+          "frequency": "monthly"
+        }
+      ],
+      "accepted_payment_channels": [
+        {
+          "type": "QR Code"
+        }
+      ],
+      "plans": [
+        {
+          "name": "Basic Plan",
+          "amount": 499,
+          "currency": "INR",
+          "frequency": "One-Time",
+          "benefits": [
+            "Ideal for beginners who want access to foundational content."
+          ]
+        },
+        {
+          "name": "Pro Plan",
+          "amount": 999,
+          "currency": "INR",
+          "frequency": "One-Time",
+          "benefits": [
+            "Perfect for serious learners who want advanced content and mentorship."
+          ]
+        }
+      ]
+      ]
+    }
+  ]
+}
